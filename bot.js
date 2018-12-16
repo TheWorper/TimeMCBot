@@ -7,21 +7,7 @@ client.on('ready', () => {
 
 client.on('message', message => {
     if (message.content === 'link') {
-    	message.reply('Grasz w Minecraft? Wiec zapraszamy cie do TimeMC ! 
-====================
-Informacje:
-- Server posiada Akinatora :D
-- Rekrutacja 24h na dobe
-- Aktywna administracja
-- Możliwość nawiązania partnerstwa
-- Ranga YT od 100 subskrybcji
-- Możliwość reklamowana serverow minecraft
-- Wyrozumiała administracja
-I wiele więcej 
-====================
-Wlasciciel: TheWorper#2562
-Link: https://discord.gg/UDTKfZQ 
-Zapraszamy! :) ');
+    	message.reply('Link do TimeMC to UDTKfZQ');
   	}
 });
 
